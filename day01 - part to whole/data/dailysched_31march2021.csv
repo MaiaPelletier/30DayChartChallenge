@@ -1,0 +1,24 @@
+activity,category,start_time,end_time,details
+Sleep,Sleep,12:00:00 AM,4:30:00 AM,
+Wake Up,In Bed,4:30:00 AM,6:30:00 AM,Moth wanted attention
+Shower/Get ready,Daily routine,6:30:00 AM,7:00:00 AM,"Earlier than usual, but I wasn't getting back to sleep"
+Make coffee,Cooking/Eating,7:00:00 AM,7:15:00 AM,
+Start work,Work,7:15:00 AM,1:00:00 PM,
+Lunch,Cooking/Eating,1:00:00 PM,1:30:00 PM,I ate a lot of snacks in the morning so late lunch
+Work,Work,1:30:00 PM,3:15:00 PM,
+Finish work,Leisure/Free time,3:15:00 PM,3:30:00 PM,
+Nap,Sleep,3:30:00 PM,4:30:00 PM,Needed since I'd been up since 4AM
+Netflix,Leisure/Free time,4:30:00 PM,5:00:00 PM,Re-watching She-Ra
+Work (side gig),Work,5:00:00 PM,5:15:00 PM,
+30 Day Challenge prep,Projects,5:15:00 PM,6:00:00 PM,
+Netflix/Video Games/Twitter,Leisure/Free time,6:00:00 PM,6:30:00 PM,
+Eat dinner,Cooking/Eating,6:30:00 PM,6:45:00 PM,
+Dishes/clean kitchen/scoop litter,Cleaning,6:45:00 PM,7:15:00 PM,
+Netflix/Chill,Leisure/Free time,7:15:00 PM,7:45:00 PM,
+Vignette interview,Projects,7:45:00 PM,8:30:00 PM,
+Played with cats,Leisure/Free time,8:30:00 PM,9:00:00 PM,
+Vignette interview,Projects,9:00:00 PM,9:30:00 PM,
+Video games,Leisure/Free time,9:30:00 PM,11:00:00 PM,
+"Wash face, etc.",Daily routine,11:00:00 PM,11:15:00 PM,
+Tik toks,In Bed,11:15:00 PM,11:45:00 PM,
+Sleep,Sleep,11:45:00 PM,11:59:00 PM,

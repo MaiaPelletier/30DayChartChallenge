@@ -1,0 +1,13 @@
+---
+title: "30 Day Chart Challenge"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.align = "center")
+```
+
+My contributions to the [30 day chart challenge](https://github.com/Z3tt/30DayChartChallenge_2021).  
+
+### Day 1: Part to Whole    
+![image](day01 - part to whole/day01_part_to_whole.png)
