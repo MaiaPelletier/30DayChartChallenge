@@ -14,3 +14,6 @@ My contributions to the [30 day chart challenge](https://github.com/Z3tt/30DayCh
 
 ### Day 2: Pictogram   
 ![image](day02 - pictogram/day02_pictogram.png)
+
+### Day 3: Historical (Done by hand)   
+![image](day03 - historical/day03_historical.jpg)

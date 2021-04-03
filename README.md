@@ -11,3 +11,7 @@ challenge](https://github.com/Z3tt/30DayChartChallenge_2021).
 ### Day 2: Pictogram
 
 ![image](day02%20-%20pictogram/day02_pictogram.png)
+
+### Day 3: Historical (Done by hand)
+
+![image](day03%20-%20historical/day03_historical.jpg)
