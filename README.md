@@ -19,3 +19,7 @@ challenge](https://github.com/Z3tt/30DayChartChallenge_2021).
 ### Day 4: Magical
 
 ![image](day04%20-%20magical/day04_magical.png)
+
+### Day 5: Slope
+
+![image](day05%20-%20slope/day05_slope.png)
