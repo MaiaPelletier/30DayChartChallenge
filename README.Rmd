@@ -17,3 +17,31 @@ My contributions to the [30 day chart challenge](https://github.com/Z3tt/30DayCh
 
 ### Day 3: Historical (Done by hand)   
 ![image](day03 - historical/day03_historical.jpg)
+
+### Day 4: Magical    
+![image](day04 - magical/day04_magical.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
