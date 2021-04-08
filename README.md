@@ -23,3 +23,11 @@ challenge](https://github.com/Z3tt/30DayChartChallenge_2021).
 ### Day 5: Slope
 
 ![image](day05%20-%20slope/day05_slope.png)
+
+### Day 6: Experimental
+
+![image](day06%20-%20experimental/day06_experiemental.jpg)
+
+### Day 7: Physical
+
+![image](day07%20-%20physical/day07_physical.png)

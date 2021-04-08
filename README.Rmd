@@ -24,9 +24,11 @@ My contributions to the [30 day chart challenge](https://github.com/Z3tt/30DayCh
 ### Day 5: Slope   
 ![image](day05 - slope/day05_slope.png)  
 
+### Day 6: Experimental   
+![image](day06 - experimental/day06_experiemental.jpg)  
 
-
-
+### Day 7: Physical   
+![image](day07 - physical/day07_physical.png)  
 
 
 
