@@ -96,10 +96,3 @@ p <-
     strip.text = element_text(size = 6, margin = margin(t = 2, b = 2), color = "grey30")
   ) +
   ggsave(here("day08 - animal", "day08_animal.png"), type = "cairo", dpi = 500, height = 8, width = 7)
-
-
-  
-
-
-
-

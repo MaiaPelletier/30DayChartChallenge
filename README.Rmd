@@ -32,6 +32,8 @@ My contributions to the [30 day chart challenge](https://github.com/Z3tt/30DayCh
 
 
 
+### Day 7: Animals   
+![image](day08 - animal/day08_animal.png)  
 
 
 

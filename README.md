@@ -31,3 +31,7 @@ challenge](https://github.com/Z3tt/30DayChartChallenge_2021).
 ### Day 7: Physical
 
 ![image](day07%20-%20physical/day07_physical.png)
+
+### Day 7: Animals
+
+![image](day08%20-%20animal/day08_animal.png)
