@@ -1,0 +1,191 @@
+common_name,season,month_name,sightings,pct_species
+American Black Duck,Winter,January,9,0.23684210526315788
+American Black Duck,Spring,March,20,0.5263157894736842
+American Black Duck,Spring,April,9,0.23684210526315788
+American Crow,Winter,January,47,0.21962616822429906
+American Crow,Winter,February,8,0.037383177570093455
+American Crow,Spring,March,51,0.2383177570093458
+American Crow,Spring,April,40,0.18691588785046728
+American Crow,Spring,May,2,0.009345794392523364
+American Crow,Summer,June,8,0.037383177570093455
+American Crow,Summer,August,1,0.004672897196261682
+American Crow,Fall,October,1,0.004672897196261682
+American Crow,Fall,November,54,0.2523364485981308
+American Crow,Winter,December,2,0.009345794392523364
+American Goldfinch,Winter,February,4,0.047058823529411764
+American Goldfinch,Spring,March,22,0.25882352941176473
+American Goldfinch,Spring,April,28,0.32941176470588235
+American Goldfinch,Spring,May,25,0.29411764705882354
+American Goldfinch,Summer,June,3,0.03529411764705882
+American Goldfinch,Fall,September,3,0.03529411764705882
+American Robin,Winter,January,16,0.17391304347826086
+American Robin,Spring,March,24,0.2608695652173913
+American Robin,Spring,April,33,0.358695652173913
+American Robin,Spring,May,13,0.14130434782608695
+American Robin,Fall,October,6,0.06521739130434782
+American Tree Sparrow,Winter,January,4,0.1111111111111111
+American Tree Sparrow,Winter,February,6,0.16666666666666666
+American Tree Sparrow,Spring,April,10,0.2777777777777778
+American Tree Sparrow,Fall,November,10,0.2777777777777778
+American Tree Sparrow,Winter,December,6,0.16666666666666666
+Black-capped Chickadee,Winter,January,18,0.10227272727272728
+Black-capped Chickadee,Spring,March,61,0.3465909090909091
+Black-capped Chickadee,Spring,April,65,0.3693181818181818
+Black-capped Chickadee,Spring,May,4,0.022727272727272728
+Black-capped Chickadee,Summer,August,8,0.045454545454545456
+Black-capped Chickadee,Fall,October,6,0.03409090909090909
+Black-capped Chickadee,Fall,November,7,0.03977272727272727
+Black-capped Chickadee,Winter,December,7,0.03977272727272727
+Blue Jay,Winter,January,6,0.25
+Blue Jay,Winter,February,1,0.041666666666666664
+Blue Jay,Spring,April,7,0.2916666666666667
+Blue Jay,Fall,September,2,0.08333333333333333
+Blue Jay,Fall,October,3,0.125
+Blue Jay,Fall,November,2,0.08333333333333333
+Blue Jay,Winter,December,3,0.125
+Brown Creeper,Winter,January,1,0.14285714285714285
+Brown Creeper,Winter,February,2,0.2857142857142857
+Brown Creeper,Spring,April,3,0.42857142857142855
+Brown Creeper,Winter,December,1,0.14285714285714285
+Canada Goose,Winter,January,1,0.0015527950310559005
+Canada Goose,Spring,March,297,0.4611801242236025
+Canada Goose,Spring,April,297,0.4611801242236025
+Canada Goose,Spring,May,33,0.05124223602484472
+Canada Goose,Fall,October,8,0.012422360248447204
+Canada Goose,Fall,November,8,0.012422360248447204
+Cedar Waxwing,Spring,March,5,0.054945054945054944
+Cedar Waxwing,Spring,April,77,0.8461538461538461
+Cedar Waxwing,Spring,May,1,0.01098901098901099
+Cedar Waxwing,Summer,June,3,0.03296703296703297
+Cedar Waxwing,Fall,September,5,0.054945054945054944
+Common Goldeneye,Winter,January,40,0.19704433497536947
+Common Goldeneye,Winter,February,2,0.009852216748768473
+Common Goldeneye,Spring,March,53,0.26108374384236455
+Common Goldeneye,Spring,April,27,0.1330049261083744
+Common Goldeneye,Fall,November,81,0.39901477832512317
+Common Grackle,Spring,March,2,0.1
+Common Grackle,Spring,April,1,0.05
+Common Grackle,Spring,May,15,0.75
+Common Grackle,Summer,June,1,0.05
+Common Grackle,Fall,October,1,0.05
+Common Merganser,Winter,January,3,0.037037037037037035
+Common Merganser,Winter,February,1,0.012345679012345678
+Common Merganser,Spring,March,7,0.08641975308641975
+Common Merganser,Spring,April,33,0.4074074074074074
+Common Merganser,Fall,November,27,0.3333333333333333
+Common Merganser,Winter,December,10,0.12345679012345678
+Common Raven,Winter,February,1,0.14285714285714285
+Common Raven,Spring,March,4,0.5714285714285714
+Common Raven,Spring,April,1,0.14285714285714285
+Common Raven,Spring,May,1,0.14285714285714285
+Dark-eyed Junco,Winter,January,5,0.18518518518518517
+Dark-eyed Junco,Winter,February,3,0.1111111111111111
+Dark-eyed Junco,Spring,March,7,0.25925925925925924
+Dark-eyed Junco,Spring,April,1,0.037037037037037035
+Dark-eyed Junco,Fall,November,2,0.07407407407407407
+Dark-eyed Junco,Winter,December,9,0.3333333333333333
+Double-crested Cormorant,Spring,March,2,0.07692307692307693
+Double-crested Cormorant,Spring,April,8,0.3076923076923077
+Double-crested Cormorant,Spring,May,11,0.4230769230769231
+Double-crested Cormorant,Summer,June,1,0.038461538461538464
+Double-crested Cormorant,Summer,August,1,0.038461538461538464
+Double-crested Cormorant,Fall,September,1,0.038461538461538464
+Double-crested Cormorant,Fall,November,2,0.07692307692307693
+Downy Woodpecker,Winter,January,3,0.05172413793103448
+Downy Woodpecker,Winter,February,8,0.13793103448275862
+Downy Woodpecker,Spring,March,20,0.3448275862068966
+Downy Woodpecker,Spring,April,14,0.2413793103448276
+Downy Woodpecker,Spring,May,2,0.034482758620689655
+Downy Woodpecker,Fall,November,8,0.13793103448275862
+Downy Woodpecker,Winter,December,3,0.05172413793103448
+European Starling,Spring,March,23,0.3333333333333333
+European Starling,Spring,April,27,0.391304347826087
+European Starling,Spring,May,18,0.2608695652173913
+European Starling,Summer,June,1,0.014492753623188406
+Great Blue Heron,Spring,March,2,0.2
+Great Blue Heron,Spring,April,2,0.2
+Great Blue Heron,Spring,May,2,0.2
+Great Blue Heron,Fall,October,4,0.4
+Hairy Woodpecker,Winter,January,3,0.3
+Hairy Woodpecker,Winter,February,1,0.1
+Hairy Woodpecker,Spring,April,4,0.4
+Hairy Woodpecker,Fall,November,1,0.1
+Hairy Woodpecker,Winter,December,1,0.1
+Hooded Merganser,Winter,January,1,0.016129032258064516
+Hooded Merganser,Spring,March,5,0.08064516129032258
+Hooded Merganser,Spring,April,20,0.3225806451612903
+Hooded Merganser,Fall,November,36,0.5806451612903226
+House Finch,Winter,February,1,0.09090909090909091
+House Finch,Spring,March,5,0.45454545454545453
+House Finch,Spring,April,1,0.09090909090909091
+House Finch,Winter,December,4,0.36363636363636365
+House Sparrow,Spring,March,130,0.6018518518518519
+House Sparrow,Spring,April,73,0.33796296296296297
+House Sparrow,Spring,May,13,0.06018518518518518
+Mallard,Winter,January,2,0.0016116035455278
+Mallard,Spring,March,780,0.628525382755842
+Mallard,Spring,April,197,0.1587429492344883
+Mallard,Spring,May,50,0.040290088638195005
+Mallard,Summer,June,2,0.0016116035455278
+Mallard,Fall,September,3,0.0024174053182917004
+Mallard,Fall,October,67,0.053988718775181306
+Mallard,Fall,November,140,0.11281224818694602
+Mourning Dove,Winter,January,10,0.35714285714285715
+Mourning Dove,Winter,February,2,0.07142857142857142
+Mourning Dove,Spring,March,2,0.07142857142857142
+Mourning Dove,Spring,April,2,0.07142857142857142
+Mourning Dove,Fall,October,2,0.07142857142857142
+Mourning Dove,Winter,December,10,0.35714285714285715
+Northern Cardinal,Winter,January,13,0.1111111111111111
+Northern Cardinal,Winter,February,14,0.11965811965811966
+Northern Cardinal,Spring,March,36,0.3076923076923077
+Northern Cardinal,Spring,April,26,0.2222222222222222
+Northern Cardinal,Spring,May,10,0.08547008547008547
+Northern Cardinal,Fall,October,2,0.017094017094017096
+Northern Cardinal,Fall,November,5,0.042735042735042736
+Northern Cardinal,Winter,December,11,0.09401709401709402
+Red-winged Blackbird,Spring,March,21,0.28378378378378377
+Red-winged Blackbird,Spring,April,28,0.3783783783783784
+Red-winged Blackbird,Spring,May,24,0.32432432432432434
+Red-winged Blackbird,Fall,November,1,0.013513513513513514
+Ring-billed Gull,Spring,March,81,0.17608695652173914
+Ring-billed Gull,Spring,April,318,0.691304347826087
+Ring-billed Gull,Spring,May,11,0.02391304347826087
+Ring-billed Gull,Summer,June,3,0.006521739130434782
+Ring-billed Gull,Fall,October,29,0.06304347826086956
+Ring-billed Gull,Fall,November,18,0.0391304347826087
+Rock Pigeon (Feral Pigeon),Winter,January,5,0.032467532467532464
+Rock Pigeon (Feral Pigeon),Spring,March,50,0.3246753246753247
+Rock Pigeon (Feral Pigeon),Spring,April,40,0.2597402597402597
+Rock Pigeon (Feral Pigeon),Spring,May,5,0.032467532467532464
+Rock Pigeon (Feral Pigeon),Summer,June,1,0.006493506493506494
+Rock Pigeon (Feral Pigeon),Fall,October,40,0.2597402597402597
+Rock Pigeon (Feral Pigeon),Fall,November,1,0.006493506493506494
+Rock Pigeon (Feral Pigeon),Winter,December,12,0.07792207792207792
+Song Sparrow,Spring,March,25,0.2358490566037736
+Song Sparrow,Spring,April,71,0.6698113207547169
+Song Sparrow,Spring,May,6,0.05660377358490566
+Song Sparrow,Summer,June,4,0.03773584905660377
+Tree Swallow,Spring,April,38,0.7755102040816326
+Tree Swallow,Spring,May,11,0.22448979591836735
+Turkey Vulture,Spring,March,1,0.14285714285714285
+Turkey Vulture,Spring,April,4,0.5714285714285714
+Turkey Vulture,Spring,May,2,0.2857142857142857
+White-breasted Nuthatch,Winter,January,10,0.14084507042253522
+White-breasted Nuthatch,Winter,February,17,0.23943661971830985
+White-breasted Nuthatch,Spring,March,15,0.2112676056338028
+White-breasted Nuthatch,Spring,April,9,0.1267605633802817
+White-breasted Nuthatch,Spring,May,3,0.04225352112676056
+White-breasted Nuthatch,Summer,August,4,0.056338028169014086
+White-breasted Nuthatch,Fall,October,2,0.028169014084507043
+White-breasted Nuthatch,Fall,November,6,0.08450704225352113
+White-breasted Nuthatch,Winter,December,5,0.07042253521126761
+Wood Duck,Winter,January,2,0.05
+Wood Duck,Winter,February,1,0.025
+Wood Duck,Spring,March,13,0.325
+Wood Duck,Spring,April,20,0.5
+Wood Duck,Summer,June,1,0.025
+Wood Duck,Fall,October,1,0.025
+Wood Duck,Fall,November,2,0.05
+Yellow Warbler,Spring,May,21,0.84
+Yellow Warbler,Summer,June,4,0.16
