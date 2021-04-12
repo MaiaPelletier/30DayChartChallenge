@@ -36,6 +36,8 @@ My contributions to the [30 day chart challenge](https://github.com/Z3tt/30DayCh
 ![image](day08 - animal/day08_animal.png)  
 
 
+### Day 11: Strips   
+![image](day11 - strips/day11_strips.png) 
 
 
 

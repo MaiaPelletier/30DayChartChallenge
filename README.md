@@ -35,3 +35,7 @@ challenge](https://github.com/Z3tt/30DayChartChallenge_2021).
 ### Day 8: Animals
 
 ![image](day08%20-%20animal/day08_animal.png)
+
+### Day 11: Strips
+
+![image](day11%20-%20strips/day11_strips.png)
