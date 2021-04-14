@@ -1,0 +1,181 @@
+﻿common_name,victory_points,wingspan
+Song Sparrow,0,20
+Spotted Towhee,0,28
+Scaled Quail,0,36
+Pied-Billed Grebe,0,41
+Mourning Dove,0,46
+Ruddy Duck,0,48
+Mallard,0,89
+Blue-Gray Gnatcatcher,1,15
+House Wren,1,15
+Common Yellowthroat,1,18
+Carolina Wren,1,20
+Painted Whitestart,1,22
+Chipping Sparrow,1,23
+Yellow-Rumped Warbler,1,23
+Barn Swallow,1,38
+Red-Bellied Woodpecker,1,41
+American Robin,1,43
+Killdeer,1,46
+Turkey Vulture,1,170
+California Condor,1,277
+Bushtit,2,15
+Savannah Sparrow,2,18
+Carolina Chickadee,2,20
+Grasshopper Sparrow,2,20
+Pygmy Nuthatch,2,20
+Ruby-Crowned Kinglet,2,20
+Mountain Chickadee,2,23
+Red-Breasted Nuthatch,2,23
+Tufted Titmouse,2,25
+White-Crowned Sparrow,2,25
+Inca Dove,2,28
+White-Breasted Nuthatch,2,28
+Vaux's Swift,2,31
+Red-Winged Blackbird,2,33
+Northern Mockingbird,2,36
+Eastern Kingbird,2,38
+Western Meadowlark,2,38
+White-Throated Swift,2,38
+Purple Martin,2,46
+Northern Flicker,2,51
+Black-Bellied Whistling Duck,2,76
+Black Vulture,2,150
+Cassin's Sparrow,3,20
+Lincoln's Sparrow,3,20
+American Goldfinch,3,23
+Baird's Sparrow,3,23
+Dark-Eyed Junco,3,23
+Pine Siskin,3,23
+Cedar Waxwing,3,25
+House Finch,3,25
+Red-Eyed Vireo,3,25
+Sprague's Pipit,3,25
+Eastern Phoebe,3,28
+Brown-Headed Cowbird,3,30
+Downy Woodpecker,3,30
+Loggerhead Shrike,3,30
+Northern Cardinal,3,30
+California Quail,3,36
+Chimney Swift,3,36
+Violet-Green Swallow,3,36
+Tree Swallow,3,38
+Blue Jay,3,41
+Brewer's Blackbird,3,41
+Yellow-Bellied Sapsucker,3,41
+Common Grackle,3,43
+Common Nighthawk,3,56
+American Coot,3,61
+Black-Billed Magpie,3,64
+Red-Breasted Merganser,3,78
+Cooper's Hawk,3,79
+Franklin's Gull,3,91
+Red-Shouldered Hawk,3,102
+Barred Owl,3,107
+Northern Harrier,3,109
+Brant,3,114
+Canada Goose,3,132
+Double-Crested Cormorant,3,132
+Black-Chinned Hummingbird,4,8
+Ruby-Throated Hummingbird,4,10
+Anna's Hummingbird,4,13
+Bell's Vireo,4,18
+Bewick's Wren,4,18
+American Redstart,4,20
+Cerulean Warbler,4,20
+Juniper Titmouse,4,23
+Lazuli Bunting,4,23
+Dickcissel,4,25
+Blue Grosbeak,4,28
+Ash-Throated Flycatcher,4,30
+Bobolink,4,30
+Cassin's Finch,4,30
+Eastern Bluebird,4,33
+Mountain Bluebird,4,36
+Red-Cockaded Woodpecker,4,36
+Yellow-Headed Blackbird,4,38
+Red-Headed Woodpecker,4,43
+Eastern Screech Owl,4,51
+King Rail,4,51
+Belted Kingfisher,4,53
+Black Tern,4,61
+Green Heron,4,66
+Willet,4,66
+Black-Necked Stilt,4,74
+Pileated Woodpecker,4,74
+Wood Duck,4,76
+Forster's Tern,4,79
+Mississippi Kite,4,79
+Canvasback,4,82
+Broad-Winged Hawk,4,85
+American Crow,4,99
+Snowy Egret,4,104
+Chihuahuan Raven,4,112
+Ring-Billed Gull,4,122
+Brown Pelican,4,201
+Indigo Bunting,5,20
+Painted Bunting,5,23
+Chestnut-Collared Longspur,5,25
+Yellow-Breasted Chat,5,25
+Gray Catbird,5,28
+Horned Lark,5,30
+Great Crested Flycatcher,5,33
+Northern Bobwhite,5,33
+Say's Phoebe,5,33
+Bronzed Cowbird,5,36
+Spotted Sandpiper,5,38
+Wilson's Snipe,5,41
+Acorn Woodpecker,5,46
+Yellow-Billed Cuckoo,5,46
+Steller's Jay,5,48
+Burrowing Owl,5,53
+American Kestrel,5,56
+Clark's Grebe,5,61
+Clark's Nutcracker,5,61
+Hooded Merganser,5,61
+Barrow's Goldeneye,5,71
+Greater Prairie Chicken,5,71
+American Oystercatcher,5,81
+Common Merganser,5,86
+Spotted Owl,5,102
+Peregrine Falcon,5,104
+Barn Owl,5,107
+Red-Tailed Hawk,5,124
+Swainson's Hawk,5,130
+Common Raven,5,135
+Osprey,5,160
+Great Blue Heron,5,183
+Sandhill Crane,5,196
+American White Pelican,5,274
+Red Crossbill,6,28
+Western Tanager,6,30
+Rose-Breasted Grosbeak,6,33
+American Avocet,6,79
+Fish Crow,6,91
+Black Skimmer,6,112
+Anhinga,6,114
+Common Loon,6,117
+Roseate Spoonbill,6,127
+Ferruginous Hawk,6,142
+Wood Stork,6,155
+Whooping Crane,6,221
+Hooded Warbler,7,18
+Hermit Thrush,7,30
+Greater Roadrunner,7,56
+Purple Gallinule,7,56
+Northern Shoveler,7,76
+American Bittern,7,107
+Great Egret,7,130
+Blue-Winged Warbler,8,20
+Prothonotary Warbler,8,23
+Scissor-Tailed Flycatcher,8,38
+Atlantic Puffin,8,53
+White-Faced Ibis,8,91
+Great Horned Owl,8,112
+Wild Turkey,8,135
+Golden Eagle,8,201
+Baltimore Oriole,9,30
+American Woodcock,9,46
+Black-Crowned Night-Heron,9,112
+Bald Eagle,9,203
+Trumpeter Swan,9,203
