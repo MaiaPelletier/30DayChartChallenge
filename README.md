@@ -39,3 +39,9 @@ challenge](https://github.com/Z3tt/30DayChartChallenge_2021).
 ### Day 11: Strips
 
 ![image](day11%20-%20strips/day11_strips.png)
+
+### Day 12: Correlation + Bonus
+
+![image](day12%20-%20correlation/day12_correlation.png)
+
+![image](day12%20-%20correlation/imtired.png)

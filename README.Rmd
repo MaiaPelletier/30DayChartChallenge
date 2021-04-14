@@ -39,9 +39,10 @@ My contributions to the [30 day chart challenge](https://github.com/Z3tt/30DayCh
 ### Day 11: Strips   
 ![image](day11 - strips/day11_strips.png) 
 
+### Day 12: Correlation + Bonus   
+![image](day12 - correlation/day12_correlation.png) 
 
-
-
+![image](day12 - correlation/imtired.png) 
 
 
 
