@@ -45,3 +45,8 @@ challenge](https://github.com/Z3tt/30DayChartChallenge_2021).
 ![image](day12%20-%20correlation/day12_correlation.png)
 
 ![image](day12%20-%20correlation/imtired.png)
+
+### Day 15: Multivariate
+
+![image](day15%20-%20multivariate/day15_multivariate.png)
+![image](day15%20-%20multivariate/day15_multivariate_legend.png)

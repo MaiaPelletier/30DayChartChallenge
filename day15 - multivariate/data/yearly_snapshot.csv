@@ -1,0 +1,25 @@
+age,year,hair_style,hair_colour,country,location,school,no_tattoos
+1,1998,none,brown,canada,manitouwadge,,0
+2,1999,none,brown,canada,manitouwadge,,0
+3,2000,curly,brown,canada,manitouwadge,,0
+4,2001,curly,brown,canada,manitouwadge,elementary,0
+5,2002,curly,brown,canada,manitouwadge,elementary,0
+6,2003,curly,brown,canada,manitouwadge,elementary,0
+7,2004,curly,brown,us,,elementary,0
+8,2005,curly,brown,us,,elementary,0
+9,2006,curly,brown,us,,elementary,0
+10,2007,straight,brown,us,,elementary,0
+11,2008,straight,pink,canada,oakville,elementary,0
+12,2009,straight,purple,canada,oakville,elementary,0
+13,2010,straight,red,canada,oakville,elementary,0
+14,2011,straight,red,canada,oakville,elementary,0
+15,2012,straight,brown,spain,,high school,0
+16,2013,straight,brown,spain,,high school,0
+17,2014,curly,red,spain,,high school,0
+18,2015,curly,black,canada,stouffville,high school,0
+19,2016,curly,brown,canada,ottawa,university,1
+20,2017,curly,brown,canada,ottawa,university,1
+21,2018,curly,brown,canada,ottawa,university,2
+22,2019,curly,brown,canada,ottawa,university,7
+23,2020,curly,brown,canada,ottawa,university,7
+24,2021,curly,brown,canada,ottawa,,9
