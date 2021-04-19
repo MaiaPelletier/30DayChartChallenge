@@ -50,3 +50,7 @@ challenge](https://github.com/Z3tt/30DayChartChallenge_2021).
 
 ![image](day15%20-%20multivariate/day15_multivariate.png)
 ![image](day15%20-%20multivariate/day15_multivariate_legend.png)
+
+### Day 17: Pop Culture
+
+![image](day17%20-%20pop%20culture/day17_popculture.png)

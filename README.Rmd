@@ -48,9 +48,8 @@ My contributions to the [30 day chart challenge](https://github.com/Z3tt/30DayCh
 ![image](day15 - multivariate/day15_multivariate.png) 
 ![image](day15 - multivariate/day15_multivariate_legend.png)
 
-
-
-
+### Day 17: Pop Culture   
+![image](day17 - pop culture/day17_popculture.png) 
 
 
 
